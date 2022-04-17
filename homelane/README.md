@@ -1,3 +1,8 @@
+##
+```
+Server UPL: http://40.78.84.231/
+```
+
 ##  Installation
 ```
  --> Create a new  virtual ENV
@@ -9,7 +14,7 @@
 ## Get the API Key 
 
 ```
-URL : http://localhost:8000/api-key
+URL : http://40.78.84.231/api-key
 
 Method: GET
 
@@ -24,7 +29,7 @@ Response:
 ## Budget Homes API Key 
 
 ```
-URL : http://localhost:8000/home/budget/
+URL : http://40.78.84.231/home/budget/
 
 Method: POST
 
@@ -43,7 +48,7 @@ Payload:
 ##   SQRT Homes API Key 
 
 ```
-URL : http://localhost:8000/home/sqft/
+URL : http://40.78.84.231/home/sqft/
 
 Method: POST
 
@@ -62,7 +67,7 @@ Payload:
 ##   Year Homes API Key 
 
 ```
-URL : http://localhost:8000/home/year/
+URL : http://40.78.84.231/home/year/
 
 Method: POST
 
